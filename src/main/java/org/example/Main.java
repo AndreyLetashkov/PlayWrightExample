@@ -24,5 +24,7 @@ public class Main {
         page.close();
         browser.close();
         playwright.close();
+        System.out.println();
+        System.out.println(2);
     }
 }
